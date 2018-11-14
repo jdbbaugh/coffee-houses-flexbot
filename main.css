@@ -1,0 +1,29 @@
+* {
+    background-color: #66B9BF;
+}
+
+.pageHeader {
+    display: flex;
+    font-family: 'Monoton', cursive;
+    font-size: 60px;
+    background-color: #07889B;
+    color: #E37222;
+    justify-content: center;
+}
+
+.list {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content:  center;
+    padding-left: 18%;
+    
+    
+}
+
+.shop {
+    font-family: 'Cabin Condensed', sans-serif;
+    font-size: 30px;
+    flex-basis: 33%;
+    justify-content: center;
+}
