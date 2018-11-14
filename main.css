@@ -16,13 +16,14 @@
     flex-direction: row;
     flex-wrap: wrap;
     justify-content:  center;
-    padding-left: 18%;
+    padding-left: 16%;
     
     
 }
 
 .shop {
     font-family: 'Cabin Condensed', sans-serif;
+    color: #EFEFEF;
     font-size: 30px;
     flex-basis: 33%;
     justify-content: center;
